@@ -3,8 +3,8 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+<p align="center"> <img src="https://github.com/MonicaHillman](https://github.com/josueristow)/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
+<p align="center">Site personalizado.</p>
 
 ## Tecnologias
 * HTML
